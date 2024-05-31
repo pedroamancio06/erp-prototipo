@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/erp-prototipo/static/css/main.685af382.css",
+    "main.js": "/erp-prototipo/static/js/main.012670c5.js",
+    "index.html": "/erp-prototipo/index.html",
+    "main.685af382.css.map": "/erp-prototipo/static/css/main.685af382.css.map",
+    "main.012670c5.js.map": "/erp-prototipo/static/js/main.012670c5.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.685af382.css",
+    "static/js/main.012670c5.js"
+  ]
+}
